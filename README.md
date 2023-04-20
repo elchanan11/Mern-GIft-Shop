@@ -35,7 +35,7 @@ npm install
 npm start
 
 
-To install the backend, run `npm install` in the `api` directory, then `nodemon app.js` to start the server.
+To install the backend, run `npm install` in the `api` directory, then `nodemon index.js` to start the server (make sure you add your secret keys to the .dot file so every thing will work).
 
 cd api
 npm install
